@@ -1,0 +1,22 @@
+#projects_list_holder, #labels_list_holder, #filters_list_holder { 
+  display:block!important;  
+}
+
+#projects_list_holder::before { 
+  content: "Projects";
+  font-weight: 900;
+}
+
+#labels_list_holder::before { 
+  content: "Labels";
+  font-weight: 900;
+}
+
+#filters_list_holder::before { 
+  content: "Filters";
+  font-weight: 900;
+}
+
+#left_menu_tabs { 
+  display:none!important; 
+}
