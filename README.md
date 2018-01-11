@@ -1,7 +1,10 @@
 # Themes for Custom Style Script
 
-Requires Firefox Add-on/Extension: https://addons.mozilla.org/nn-NO/firefox/addon/custom-style-script/
+Requires browser add-on/extension: 
 
+* Firefox: https://addons.mozilla.org/nn-NO/firefox/addon/custom-style-script/
+* Chrome: https://chrome.google.com/webstore/detail/custom-style-script/ecjfaoeopefafjpdgnfcjnhinpbldjij
+* Opera: https://addons.opera.com/nb/extensions/details/custom-style-script/
 
 
 ## Todoist
